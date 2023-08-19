@@ -1,7 +1,4 @@
 import Appbar from "./components/Appbar";
-// import Bottomnav from "./components/Bottomnav";
-// import LoginCard from "./components/LoginCard";
-// import SignupCard from "./components/SignupCard";
 import AddCourses from "./components/AddCourses";
 import Courses from "./components/Courses";
 import Course from "./components/Course";
