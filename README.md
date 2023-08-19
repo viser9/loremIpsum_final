@@ -1,5 +1,10 @@
 
 # loremIpsum_final
+
+#Flags::
+to find the captured flags,open './Flags'
+
+
 "Mindful goods" is a pioneering digital marketplace aligned with SDGs 16, 8, 17, and 10. Our innovative approach tackles supply chain opacity with a cutting-edge tracking system, granting consumers insights into ethical practices. This fuels fair trade and responsible consumption.
 
 Small sustainable businesses and artisans find a home on our platform, gaining an online stage to showcase their eco-friendly wares and connect with conscious consumers, fostering economic growth within the green sector.
