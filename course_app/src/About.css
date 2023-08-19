@@ -1,0 +1,83 @@
+/* Reset some default styles for consistency */
+body, h1, h2, h3, p {
+  margin: 0;
+  padding: 0;
+}
+
+/* Basic styling for header and navigation */
+header {
+  background-color: #333;
+  color: white;
+  padding: 10px 0;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 20px;
+}
+
+/* Styling for sections */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.about-section, .problem-statements, .our-approach {
+  background-color: #f9f9f9;
+}
+
+/* Problem statement and approach styles */
+.problem-statement, .our-approach {
+  margin-bottom: 30px;
+}
+.problem-statement h3, .our-approach h2 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+/* Footer styling */
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.container {
+  background-color: rgba(255, 255, 255, 0.15);
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1), 0px 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+}
+
+h1, h2 {
+  color: #333;
+  text-align: center;
+}
+
+p, ul {
+  color: #666;
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+ul li {
+  list-style-type: none;
+  margin-left: -20px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  color: #999;
+}
+.session{
+  background-color: #999;
+}
