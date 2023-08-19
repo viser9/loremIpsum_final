@@ -1,0 +1,130 @@
+/* Reset some default styles for consistency */
+body, div, p, h1, h2, h3, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    /* background: linear-gradient(56deg, rgba(0,0,0,1) 24%, rgba(2,2,2,1) 79%, rgba(54,54,54,1) 100%); */
+    margin: 0;
+    /* filter: brightness(50%); */
+
+    background-image:url("https://t3.ftcdn.net/jpg/04/39/04/42/360_F_439044220_qmQeFV1wWxsquPU4PbiMq9urTGVsUMjB.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0;
+    /* background: linear-gradient(to right, #161718, #414345);  */
+}
+
+.container {
+    max-width:700px;
+    margin: 0 auto;
+    margin-top:15vw;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.699);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    border-radius: 10px;
+    border:white 2px solid;
+}
+
+h1 {
+    font-size: 3vw;
+    margin-bottom: 20px;
+    color:rgb(222, 222, 222);
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(39, 38, 38);
+}
+
+h2 {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color:rgb(155, 155, 155);}
+
+p {
+    display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+            color:rgb(155, 155, 155);
+}
+label{
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color:rgb(155, 155, 155);
+}
+a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Forum-specific styling */
+.thread {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.thread h2 {
+    font-size: 18px;
+}
+
+.thread p {
+    font-size: 14px;
+}
+
+/* Form styling */
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    background: transparent;
+}
+
+.btn:hover {
+    align-items: center;
+    background-color: #b5b5b53e;
+    color: rgb(5, 5, 5);
+    border: rgba(0, 0, 0, 0.9) 2px solid;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 5px 8px rgba(0,0,0,.6);
+}
+
+.btn{
+    background-color: #a0a0a021;
+    border:white 2px solid;
+    color:rgb(255, 255, 255);
+    font-weight: bolder;
+    padding: 10px 20px;
+
+    box-shadow: 3px 5px 12px rgba(91, 91, 91, 0.6);
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 5px 8px rgba(0,0,0,.6);
+    
+}
+
+
+
