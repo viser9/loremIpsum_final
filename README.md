@@ -20,8 +20,14 @@ Here are some of the sample web snippets from our website:
    <img width="1680" alt="Screenshot 2023-08-19 at 5 45 49 PM" src="https://github.com/viser9/loremIpsum_final/assets/135937452/041c4293-7c6d-49b1-a491-1ad23d41326e">
    
  - MARKET PLACE:
-   
-![Uploading Screenshot 2023-08-19 at 5.44.19 PM.png…]()![Uploading Screenshot 2023-08-19 at 5.44.46 PM.png…]()
+
+<img width="1680" alt="Screenshot 2023-08-19 at 5 44 19 PM" src="https://github.com/viser9/loremIpsum_final/assets/135937452/fff70394-4e4d-4252-9d30-39544e45510c">
+
+
+
+<img width="1680" alt="Screenshot 2023-08-19 at 5 44 46 PM" src="https://github.com/viser9/loremIpsum_final/assets/135937452/47a0af95-9356-43e9-b198-ae0fd2d39150">
+
+
 
 <img width="1680" alt="Screenshot 2023-08-19 at 5 44 54 PM" src="https://github.com/viser9/loremIpsum_final/assets/135937452/ceeb9e01-286a-430b-9c9a-ab7e16cbc510">
 
